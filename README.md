@@ -23,6 +23,10 @@
 
 ## Screenshots:
 
+<img width="364" alt="SeToSaJ_1" src="https://user-images.githubusercontent.com/94137664/192119001-e77f4ff1-9ab9-458c-8baa-ab08d28d29ea.png"> <img width="365" alt="SeToSaJ_2" src="https://user-images.githubusercontent.com/94137664/192118996-85b205c2-36f1-41ed-802c-9c3d6d5a6834.png"> 
+<img width="365" alt="SeToSaJ_3" src="https://user-images.githubusercontent.com/94137664/192118993-3f73b8ba-2551-4148-b606-6abaf1d3562e.png"> <img width="365" alt="SeToSaJ_4" src="https://user-images.githubusercontent.com/94137664/192118992-214f301e-8b47-4204-84ee-780911c8ef7d.png"> 
+<img width="1280" alt="SeToSaJ_5" src="https://user-images.githubusercontent.com/94137664/192118990-41493f71-1627-4352-85a8-06bc80ad12f8.png"> <img width="1280" alt="SeToSaJ_6" src="https://user-images.githubusercontent.com/94137664/192118988-f2709ecd-2f6b-4781-af82-a1ccf5e20369.png"> 
+
 
 
 - [YouTube Video](https://www.youtube.com/watch?v=1Bdwcqkuiys)
@@ -32,11 +36,11 @@
 - Email: info[@]telegram-gods.pro
 - Telegram: @TGG_Sales
 
-* or via the Contact For on our website:
+* or via the Contact Form on our Telegram-Gods website:
 - Wеb: https://telegram-gods.pro/ - EN Version
 - Wеb: https://telegram-gods.com/ - RU Version
 
 
 ## Donations:
-* [Buy us a coffee :)](https://commerce.coinbase.com/checkout/229bd22f-06f8-4bef-bab1-dd6b9d1af051)
+* [Buy us a coffee :)](https://commerce.coinbase.com/checkout/a0495346-539e-48df-9b43-880a3b93dc8b)
 * Thank you!
