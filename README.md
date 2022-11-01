@@ -1,8 +1,8 @@
 # Telegram Accounts .session to .Session+.Json Converter.
 ## Makes Telegram sessions files compatible with Telegram Gods.
  
- * Описание программы так же доступно на русском языке. См. [Telegram Gods Rus](https://github.com/telegram-gods/) [In progress]
- * 描述也可以在Chineese中提供。 参见 [Telegram Gods CN](https://github.com/telegram-gods/Telegram-.Session-to-.Session-.Json-Converter-CN)
+ * Описание программы так же доступно на русском языке. См. [Telegram Gods Rus]([https://github.com/telegram-prime/](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)) 
+ * 描述也可以在Chineese中提供。 参见 [Telegram Gods CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
 
 ## Converter gives to user ability to:
