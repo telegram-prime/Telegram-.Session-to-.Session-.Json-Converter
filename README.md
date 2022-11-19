@@ -31,7 +31,7 @@
 
 
 ## Video review
-- [YouTube Video](https://www.youtube.com/watch?v=1Bdwcqkuiys)
+- [YouTube Video](https://youtu.be/TjmF4SK9MQ4)
 
 
 ##  Contacts:
