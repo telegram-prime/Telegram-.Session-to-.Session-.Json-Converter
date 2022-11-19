@@ -1,8 +1,8 @@
 # Telegram Accounts .session to .Session+.Json Converter.
-## Makes Telegram sessions files compatible with Telegram Gods.
+## Makes Telegram sessions files compatible with Telegram Prime.
  
- * Описание программы так же доступно на русском языке. См. [Telegram Gods Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
- * 描述也可以在Chineese中提供。 [参见 Telegram Gods CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
+ * Описание программы так же доступно на русском языке. См. [SeToSaJ Converter Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
+ * 描述也可以在Chineese中提供。 [参见 SeToSaJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
 
 ## Converter gives to user ability to:
@@ -38,7 +38,7 @@
 - Email: manager[@]telegramprime.net
 - Telegram: @TGG_Sales
 
-* or via the Contact Form on our Telegram-Gods website:
+* or via the Contact Form on our Telegram-Prime website:
 - Wеb: https://telegramprime.net/
 
 
