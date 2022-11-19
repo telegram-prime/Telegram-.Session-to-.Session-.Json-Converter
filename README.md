@@ -20,6 +20,8 @@
 - 2.  1000 converts (operations) for 365 days period (Whichever comes first).
 - 3.  Unlimited number of converts (operations) for lifetime period.
 
+## Download:
+ - [Always Latest Release](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter/releases/latest)
 
 ## Screenshots:
 
@@ -33,12 +35,11 @@
 
 
 ##  Contacts:
-- Email: info[@]telegram-gods.pro
+- Email: manager[@]telegramprime.net
 - Telegram: @TGG_Sales
 
 * or via the Contact Form on our Telegram-Gods website:
-- Wеb: https://telegram-gods.pro/ - EN Version
-- Wеb: https://telegram-gods.com/ - RU Version
+- Wеb: https://telegramprime.net/
 
 
 ## Donations:
