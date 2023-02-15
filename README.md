@@ -26,9 +26,13 @@
 
 ## Screenshots:
 
-<img width="366" alt="SeToSaJ_7" src="https://user-images.githubusercontent.com/94137664/192512275-7f7a258f-414a-4a2a-a325-d33d60034dd3.png"> <img width="365" alt="SeToSaJ_8" src="https://user-images.githubusercontent.com/94137664/192512261-ddde291b-b348-442c-9f12-3bbb5fca1457.png">
-<img width="365" alt="SeToSaJ_9" src="https://user-images.githubusercontent.com/94137664/192512253-ae420a0a-16b6-48b9-8b72-ab8991c09767.png"> <img width="365" alt="SeToSaJ_10" src="https://user-images.githubusercontent.com/94137664/192512244-327c76c5-52f9-4205-8c4a-452928289030.png"> 
+<img width="366" alt="SeToSaJ_7" src="https://user-images.githubusercontent.com/94137664/192512275-7f7a258f-414a-4a2a-a325-d33d60034dd3.png"> <img width="784" alt="SeToSaJ_18" src="https://user-images.githubusercontent.com/94137664/219199716-db7f7653-5531-4999-8bf8-11dd3ae905fb.png">
+<img width="783" alt="SeToSaJ_19" src="https://user-images.githubusercontent.com/94137664/219199699-333fc9a0-c530-446d-9f2e-f1d2a9db1ee8.png"> <img width="784" alt="SeToSaJ_20" src="https://user-images.githubusercontent.com/94137664/219199674-14054dc0-f68a-4276-af9c-25583a935f3e.png"> 
 <img width="1280" alt="SeToSaJ_5" src="https://user-images.githubusercontent.com/94137664/192118990-41493f71-1627-4352-85a8-06bc80ad12f8.png"> <img width="1280" alt="SeToSaJ_6" src="https://user-images.githubusercontent.com/94137664/192118988-f2709ecd-2f6b-4781-af82-a1ccf5e20369.png"> 
+
+
+
+
 
 
 ## Video review
