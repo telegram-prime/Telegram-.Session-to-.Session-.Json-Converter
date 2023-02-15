@@ -10,6 +10,7 @@
  - Control and adjust each and every step in setting of the .json file conversion process;
  - Adjust .json file for any language or any device; 
    which is top important issue because if something goes wrong with .json files user is risking to get all accounts banned.
+ - Choose either you want to check session online prior convert or not.
 
 
 ## We offer FREE trial usage period for 24 hours and for that period user will be given 5 converts (operations) to test and ensure before purchase that everything works fine. 
