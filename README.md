@@ -7,6 +7,7 @@
 
 ## Converter gives to user ability to:
  - Convert telegram .session format files to .session+.json format.
+ - Supports Pyrogram sessions format.
  - Supports account's re-authorization (creates new session).
  - Multi-threaded work.
  - Control and adjust each and every step in setting of the .json file conversion process.
@@ -42,7 +43,6 @@
 ##  Contacts:
 - Email:    manager[@]telegramprime.net
 - Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- ICQ:      [Send message](https://telegramprime.net/icq-contact)
 - TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
 - Discord:  [Send message](https://telegramprime.net/discord-contact)
 - Element:  [Send message](https://telegramprime.net/element-contact)
