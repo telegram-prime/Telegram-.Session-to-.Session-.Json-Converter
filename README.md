@@ -9,6 +9,7 @@
  - Convert telegram .session format files to .session+.json format.
  - Supports Pyrogram sessions format.
  - Supports account's re-authorization (creates new session).
+ - Supports option to disconnect other account's sessions during conversion or re-authorization.
  - Multi-threaded work.
  - Control and adjust each and every step in setting of the .json file conversion process.
  - Sort bad and good sessions to separate folders.
@@ -31,9 +32,7 @@
 
 
 ## Screenshots:
-
-![S2SJ_Converter_v 1 9_EN_MT](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter/assets/94137664/690751ad-e781-419a-98ef-60b3ab1c4769)
-
+![image](https://github.com/user-attachments/assets/5220c327-efb3-4889-92ea-c5969337e0ef)
 
 
 ## Video review
