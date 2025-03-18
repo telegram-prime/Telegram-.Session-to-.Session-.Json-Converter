@@ -10,6 +10,7 @@
  - Supports Pyrogram sessions format.
  - Supports account's re-authorization (creates new session).
  - Supports option to disconnect other account's sessions during conversion or re-authorization.
+ - Option to set custom number of connection re-tries and connection delays.
  - Multi-threaded work.
  - Control and adjust each and every step in setting of the JSON file conversion process.
  - Sort bad and good sessions to separate folders.
@@ -22,8 +23,8 @@
 
 
 ## After trial period ended this product is available under several paid subscriptions: 
-- 30 days or 1000 accounts (whichever comes first)
-- 365 days or 10000 accounts (whichever comes first)
+- 30 days or 1'000 accounts (whichever comes first)
+- 365 days or 10'000 accounts (whichever comes first)
 - Lifetime with Unlimited accounts
 
 
