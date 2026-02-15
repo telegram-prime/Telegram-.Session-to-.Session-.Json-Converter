@@ -1,62 +1,83 @@
-# STSJ Converter - Telegram Accounts SESSION to SESSION+JSON Converter.
-## Makes Telegram sessions files compatible with Telegram PRIME like software.
- 
- * Описание программы так же доступно на русском языке. См. [STSJ Converter Rus](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)
- * 描述也可以在Chineese中提供。 [参见 STSJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
+# STSJ Converter – Telegram **SESSION → SESSION+JSON**  
+A lightweight tool that makes Telegram session files compatible with Telegram Prime‑style software.
 
+---
 
-## Converter gives to user ability to:
- - Convert telegram SESSION format files to SESSION+JSON format.
- - Supports Pyrogram sessions format.
- - Supports account's re-authorization (creates new session).
- - Supports option to disconnect other account's sessions during conversion or re-authorization.
- - Option to set custom number of connection re-tries and connection delays.
- - Multi-threaded work.
- - Control and adjust each and every step in setting of the JSON file conversion process.
- - Sort bad and good sessions to separate folders.
- - Adjust JSON file for any language or any device, which is top important issue because if something goes wrong with JSON files user is risking to get all accounts banned.
- - Save logs of the operation;
- - Make back-up of the source files before operation.
+## 📚 Available in multiple languages
+- English – this page  
+- Русский – [STSJ Converter RU](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-RU)  
+- 中国人 – [STSJ Converter CN](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter-CN)
 
+---
 
-## We offer FREE trial usage period for 24 hours and for that period user will be able to convert 25 accounts per 5 operations to test and ensure before purchase that everything works fine.
+## ⚙️ What the converter does
 
+| # | Feature | Details |
+|---|---------|---------|
+| 1 | **SESSION → SESSION+JSON** | Converts native Telegram session files into a JSON format that works with Telegram Prime and other compatible clients. |
+| 2 | **Pyrogram support** | Accepts Pyrogram‑style session files as well. |
+| 3 | **Re‑authorization** | Creates a fresh session when needed. |
+| 4 | **Session cleanup** | Optionally disconnect all other sessions of the account during conversion. |
+| 5 | **Custom retry / delay** | Set how many connection attempts and pause between them. |
+| 6 | **Multithreading** | Run several conversions in parallel for faster bulk work. |
+| 7 | **Fine‑grained JSON control** | Edit device, language, and other fields before writing the file – essential to avoid bans. |
+| 8 | **Sorting** | Good sessions → “valid”; bad ones → “invalid” folders. |
+| 9 | **Logging** | Full console log of the entire operation. |
+|10 | **Backup** | Original session files are copied before any changes. |
 
-## After trial period ended this product is available under several paid subscriptions: 
-- 30 days or 1'000 accounts (whichever comes first)
-- 365 days or 10'000 accounts (whichever comes first)
-- Lifetime with Unlimited accounts
+---
 
+## ⏱️ Free Trial
 
-## Download:
- - [Always Latest Release](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter/releases/latest)
+- 24‑hour trial  
+- Convert up to **25 accounts per 5 operations** – try it risk‑free.
 
+---
 
-## Screenshots:
-<img width="512" alt="TD2S_RU_001" src="https://github.com/user-attachments/assets/5220c327-efb3-4889-92ea-c5969337e0ef" />
+## 💰 Paid Plans
 
+| Plan | Duration / Limits |
+|------|-------------------|
+| **30 days / 1 000 accounts** | Whichever comes first |
+| **365 days / 10 000 accounts** | Whichever comes first |
+| **Lifetime / Unlimited accounts** | Unlimited conversions |
 
+---
 
-## Video review
-- [YouTube Video](https://www.youtube.com/watch?v=5J3nTmHHeFc)
+## 📥 Download
 
+- **Always Latest Release** – [GitHub](https://github.com/telegram-prime/Telegram-.Session-to-.Session-.Json-Converter/releases/latest)
 
-##  Contacts:
-- Email:    manager[@]telegramprime.net
-- Telegram: [Send message](https://telegramprime.net/telegram-contact)
-- TamTam:   [Send message](https://telegramprime.net/tamtam-contact)
-- Discord:  [Send message](https://telegramprime.net/discord-contact)
-- Element:  [Send message](https://telegramprime.net/element-contact)
+---
 
-* or via the Contact Form on a website:
-- Wеb: https://telegramprime.net/ - EN Version
-- Wеb: https://telegramprime.com/ - RU Version
+## 🖼️ Screenshots
 
+![TD2S_RU_001](
+https://github.com/user-attachments/assets/7a6c6f4b-a768-4658-86e0-cd21299f765b
+)
 
-## Donations:
-* [Buy us a coffee :)](https://nowpayments.io/donation/telegramprime)
-* Thank you!
+---
 
+## 🎬 Video Review
 
+- [YouTube](https://www.youtube.com/watch?v=5J3nTmHHeFc)
 
+---
 
+## 📬 Contact & Support
+
+| Channel | Link |
+|---------|------|
+| Email | manager[@]telegramprime.net |
+| Telegram | [Send message](https://telegramprime.net/telegram-contact) |
+| Discord | [Send message](https://telegramprime.net/discord-contact) |
+| Element | [Send message](https://telegramprime.net/element-contact) |
+| Website (EN) | https://telegramprime.net/ |
+| Website (RU) | https://telegramprime.com/ |
+
+---
+
+## ☕️ Donations
+
+- **Buy us a coffee** – <https://nowpayments.io/donation/telegramprime>  
+Thank you for your support!  
