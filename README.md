@@ -12,18 +12,20 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 
 ## ⚙️ What the converter does
 
-| # | Feature | Details |
-|---|---------|---------|
-| 1 | **SESSION → SESSION+JSON** | Converts native Telegram session files into a JSON format that works with Telegram Prime and other compatible clients. |
-| 2 | **Pyrogram support** | Accepts Pyrogram‑style session files as well. |
-| 3 | **Re‑authorization** | Creates a fresh session when needed. |
-| 4 | **Session cleanup** | Optionally disconnect all other sessions of the account during conversion. |
-| 5 | **Custom retry / delay** | Set how many connection attempts and pause between them. |
-| 6 | **Multithreading** | Run several conversions in parallel for faster bulk work. |
-| 7 | **Fine‑grained JSON control** | Edit device, language, and other fields before writing the file – essential to avoid bans. |
-| 8 | **Sorting** | Good sessions → “valid”; bad ones → “invalid” folders. |
-| 9 | **Logging** | Full console log of the entire operation. |
-|10 | **Backup** | Original session files are copied before any changes. |
+| Feature | Details |
+|---------|---------|
+| **SESSION → SESSION+JSON** | Converts native Telegram session files into a JSON format that works with Telegram Prime and other compatible clients. |
+| **Pyrogram support** | Accepts Pyrogram‑style session files as well. |
+| **Re‑authorization** | Creates a fresh session when needed. |
+| **Cold Conversion** | Option to convert SESSION+JSON without connecting to the account. |
+| **Old Layer Compatibility** | Option to set compatibility with old Telegram layer or save it as a new layer |
+| **Session cleanup** | Optionally disconnect all other sessions of the account during conversion. |
+| **Custom retry / delay** | Set how many connection attempts and pause between them. |
+| **Multithreading** | Run several conversions in parallel for faster bulk work. |
+| **Fine‑grained JSON control** | Edit device, language, and other fields before writing the file – essential to avoid bans. |
+| **Sorting** | Good sessions → “valid”; bad ones → “invalid” folders. |
+| **Logging** | Full console log of the entire operation. |
+|1**Backup** | Original session files are copied before any changes. |
 
 ---
 
@@ -79,5 +81,6 @@ https://github.com/user-attachments/assets/7a6c6f4b-a768-4658-86e0-cd21299f765b
 
 ## ☕️ Donations
 
-- **Buy us a coffee** – <https://nowpayments.io/donation/telegramprime>  
+- **Buy us a coffee** – [Click](https://nowpayments.io/donation/telegramprime)
+
 Thank you for your support!  
