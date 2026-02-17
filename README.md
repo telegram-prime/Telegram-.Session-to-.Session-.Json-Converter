@@ -54,9 +54,8 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 
 ## 🖼️ Screenshots
 
-![TD2S_RU_001](
-https://github.com/user-attachments/assets/7a6c6f4b-a768-4658-86e0-cd21299f765b
-)
+<img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/7a6c6f4b-a768-4658-86e0-cd21299f765b" />
+
 
 ---
 
