@@ -73,8 +73,7 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 | Telegram | [Send message](https://telegramprime.net/telegram-contact) |
 | Discord | [Send message](https://telegramprime.net/discord-contact) |
 | Element | [Send message](https://telegramprime.net/element-contact) |
-| Website (EN) | https://telegramprime.net/ |
-| Website (RU) | https://telegramprime.com/ |
+| Website | https://telegram-converter.com/ |
 
 ---
 
