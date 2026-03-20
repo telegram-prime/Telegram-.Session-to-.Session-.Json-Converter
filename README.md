@@ -69,10 +69,10 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 
 | Channel | Link |
 |---------|------|
-| Email | manager[@]telegramprime.net |
-| Telegram | [Send message](https://telegramprime.net/telegram-contact) |
-| Discord | [Send message](https://telegramprime.net/discord-contact) |
-| Element | [Send message](https://telegramprime.net/element-contact) |
+| Email | manager[@]telegram-converter.com |
+| Telegram | [Send message](https://telegram-converter.com/telegram-contact) |
+| Discord | [Send message](https://telegram-converter.comt/discord-contact) |
+| Element | [Send message](https://telegram-converter.com/element-contact) |
 | Website | https://telegram-converter.com/ |
 
 ---
