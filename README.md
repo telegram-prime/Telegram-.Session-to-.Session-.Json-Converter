@@ -71,7 +71,7 @@ A lightweight tool that makes Telegram session files compatible with Telegram 
 |---------|------|
 | Email | manager[@]telegram-converter.com |
 | Telegram | [Send message](https://telegram-converter.com/telegram-contact) |
-| Discord | [Send message](https://telegram-converter.comt/discord-contact) |
+| Discord | [Send message](https://telegram-converter.com/discord-contact) |
 | Matrix | [Send message](https://telegram-converter.com/matrix-contact) |
 | Website | https://telegram-converter.com/ |
 
